@@ -1,0 +1,3 @@
+elso 1 12
+masodik 2 10
+harmadik 2 14

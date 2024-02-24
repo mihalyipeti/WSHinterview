@@ -1,0 +1,15 @@
+D:\Programozás\C#\SchedulerApp\SchedulerApp\bin\Debug\net6.0\SchedulerApp.exe
+D:\Programozás\C#\SchedulerApp\SchedulerApp\bin\Debug\net6.0\SchedulerApp.deps.json
+D:\Programozás\C#\SchedulerApp\SchedulerApp\bin\Debug\net6.0\SchedulerApp.runtimeconfig.json
+D:\Programozás\C#\SchedulerApp\SchedulerApp\bin\Debug\net6.0\SchedulerApp.dll
+D:\Programozás\C#\SchedulerApp\SchedulerApp\bin\Debug\net6.0\SchedulerApp.pdb
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.csproj.AssemblyReference.cache
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.AssemblyInfoInputs.cache
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.AssemblyInfo.cs
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.csproj.CoreCompileInputs.cache
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.dll
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\refint\SchedulerApp.dll
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.pdb
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\SchedulerApp.genruntimeconfig.cache
+D:\Programozás\C#\SchedulerApp\SchedulerApp\obj\Debug\net6.0\ref\SchedulerApp.dll
